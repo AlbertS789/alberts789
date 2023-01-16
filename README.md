@@ -14,6 +14,8 @@
 - 💬 Ask me about Machine Learning, Deep Learning, Recommender Systems and Teaching
 - ⚡ Fun fact: The more I know, the less confident I feel
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberts789)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberts789&show_icons=true&locale=en&layout=compact" alt="alberts789" /></p>
 
