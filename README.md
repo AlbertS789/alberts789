@@ -14,7 +14,7 @@
 - ⚡ Fun fact: The more I know, the less confident I feel
 
 
-<h4 align="center">My Stats from Here</h4>
+<h4 align="center">Some Stats</h4>
 
 <!--
 <p align="left"> 
