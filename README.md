@@ -3,9 +3,10 @@
 <h1 align="center">Hello, I'm Alberto 👋</h1>
 <h3 align="center">Data Scientist | ML Engineer | Lecturer | Software Developer</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=alberts789&label=Profile%20views&color=blue&style=for-the-badge" alt="alberts789" /> 
   <a href="https://twitter.com/AlbertAL777" target="blank"><img src="https://img.shields.io/twitter/follow/AlbertAL777?logo=twitter&style=for-the-badge" alt="AlbertAL777" /></a>
+  <a href="https://medium.com/@Al123" target="blank"><img src="https://img.shields.io/badge/medium-read-a2bd51?style=for-the-badge&logo=Medium" alt="Al123" /></a>
 </p>
 
 - 🔭 I’m currently working as Senior Data Scientist
