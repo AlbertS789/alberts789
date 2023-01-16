@@ -1,4 +1,4 @@
-### Hello, I'm Alberto 👋
+<!--### Hello, I'm Alberto 👋-->
 
 <h1 align="center">Hello, I'm Alberto 👋</h1>
 <h3 align="center">Data Scientist | ML Engineer | Lecturer | Software Developer</h3>
@@ -13,6 +13,13 @@
 - 🔭 I’m currently working as Senior Data Scientist
 - 💬 Ask me about Machine Learning, Deep Learning, Recommender Systems and Teaching
 - ⚡ Fun fact: The more I know, the less confident I feel
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberts789&show_icons=true&locale=en&layout=compact" alt="alberts789" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alberts789&show_icons=true&locale=en" alt="alberts789" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alberts789&" alt="alberts789" /></p>
 
 <!--
 **AlbertS789/alberts789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
