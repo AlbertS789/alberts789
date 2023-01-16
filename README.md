@@ -14,16 +14,12 @@
 - 💬 Ask me about Machine Learning, Deep Learning, Recommender Systems and Teaching
 - ⚡ Fun fact: The more I know, the less confident I feel
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberts789)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alberts789&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alberts789&show_icons=true&locale=en&layout=compact" alt="alberts789" /></p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberts789&show_icons=true&locale=en&layout=compact" alt="alberts789" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alberts789&show_icons=true&locale=en" alt="alberts789" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alberts789&show_icons=true&locale=en" alt="alberts789" /></p>
--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alberts789&" alt="alberts789" /></p>
 
