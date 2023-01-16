@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alberts789&show_icons=true&locale=en&theme=solarized-dark" alt="alberts789"/></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alberts789&" alt="alberts789"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alberts789&theme=solarized-dark&date_format=M%20j%5B%2C%20Y%5D" alt="alberts789"/>
 </p>
 
 <!--
