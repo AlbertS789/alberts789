@@ -11,7 +11,6 @@
 
 
 - 🔭 I’m currently working as Senior Data Scientist
-- 🎓 [UofG](https://www.gla.ac.uk/) - MSc in Data Science, 1/2021 - 1/2022. Graduated **with 👨‍🎓 Distinction**.
 - 💬 Ask me about Machine Learning, Deep Learning, Recommender Systems and Teaching
 - ⚡ Fun fact: The more I know, the less confident I feel
 
