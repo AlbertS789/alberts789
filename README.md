@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working as Senior Data Scientist
-- 💬 Ask me about Machine Learning, Deep Learning, Recommender Systems and Teaching
+- 💬 Ask me about Machine Learning, Deep Learning, Reinforcement Learning, Recommender Systems and Teaching
 - ⚡ Fun fact: The more I know, the less confident I feel
 
 
